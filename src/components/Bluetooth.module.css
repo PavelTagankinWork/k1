@@ -1,0 +1,43 @@
+.div {
+    width: 158px;
+    height: 55px;
+    position: fixed;
+    top: 85%;
+    left: 85%;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.img {
+    background-color: gray;
+    width: 40px;
+    height: 30px;
+    align-items: center;
+    border-radius: 10px;
+    padding-top: 10px;
+}
+
+.svg {
+}
+
+.h2 {
+    font-size: 11px;
+    margin-bottom: -5px;
+    color: rgba(0, 0, 0, 1);
+}
+
+.span {
+    font-size: 11px;
+    line-height: 5px;
+    color: rgba(149, 149, 149, 1);
+}
+
+.text {
+    margin-left: 5px;
+    text-align: left;
+}
