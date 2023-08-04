@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/k1/static/css/main.70915fef.css",
+    "main.js": "/k1/static/js/main.15f40de3.js",
+    "static/media/helvetica_regular.woff2": "/k1/static/media/helvetica_regular.015c3b56b93ed1ab44f3.woff2",
+    "index.html": "/k1/index.html",
+    "main.70915fef.css.map": "/k1/static/css/main.70915fef.css.map",
+    "main.15f40de3.js.map": "/k1/static/js/main.15f40de3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70915fef.css",
+    "static/js/main.15f40de3.js"
+  ]
+}
